@@ -18,7 +18,7 @@ Please click on the link below the respective sub-figure to view the PDF or inte
 
 ### Learning Progress (Figure 8)
 
-<video controls loop src="figures/learning_progress/overview.mp4"></video>
+<video controls loop width="100%" src="figures/learning_progress/overview.mp4"></video>
 
 | Iteration (Agent) | Expected Reward | Sender Policy | Receiver Policy | Permissibility Regions | Symbols |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -222,3 +222,6 @@ Please click on the link below the respective sub-figure to view the PDF or inte
 |       | [PDF](figures/learning_progress/pdf/iteration-0000049_(002).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(004).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(005).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(011).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(012).pdf) |
 | 49 (B) | ![iteration-0000049_(007)](figures/learning_progress/small/iteration-0000049_(007).jpg) | ![iteration-0000049_(009)](figures/learning_progress/small/iteration-0000049_(009).jpg) | ![iteration-0000049_(010)](figures/learning_progress/small/iteration-0000049_(010).jpg) | ![iteration-0000049_(013)](figures/learning_progress/small/iteration-0000049_(013).jpg) | ![iteration-0000049_(014)](figures/learning_progress/small/iteration-0000049_(014).jpg) |
 |       | [PDF](figures/learning_progress/pdf/iteration-0000049_(007).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(009).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(010).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(013).pdf) | [PDF](figures/learning_progress/pdf/iteration-0000049_(014).pdf) |
+
+![iteration-0000049_(014)](figures/learning_progress/small/iteration-0000049_(014).jpg)
+
