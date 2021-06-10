@@ -225,3 +225,8 @@ Please click on the link below the respective sub-figure to view the PDF or inte
 
 ![iteration-0000049_(014)](figures/learning_progress/small/iteration-0000049_(014).jpg)
 
+![iteration-0000000_(002)](./figures/learning_progress/small/iteration-0000000_(002).jpg)
+
+
+
+![iteration-0000000_(002)](figures/learning_progress/small/iteration-0000000_(002).jpg)
