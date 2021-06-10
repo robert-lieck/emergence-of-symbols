@@ -231,4 +231,4 @@ Please click on the link below the respective sub-figure to view the PDF or inte
 
 ![figures/50_50_reward](figures/50_50_reward.jpg)
 
-![iteration-0000000_(002)](figures/test.jpg)
+![iteration-0000000_(002)](figures/learning_progress/small/test.jpg)
