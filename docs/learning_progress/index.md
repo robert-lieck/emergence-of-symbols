@@ -2,11 +2,10 @@
 
 <video controls loop width="100%" src="overview.mp4"></video>
 
+
+
 <table>
-<colgroup><col span="1" style="width: 2.5%;"><col span="1" style="width: 2.5%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"></colgroup><thead>
-<tr><th></th><th></th><th>Expected Reward</th><th>Sender Policy</th><th>Receiver Policy</th><th>Permissibility Regions</th><th>Symbols</th></tr>
-</thead>
-<tbody>
+<colgroup><col span="1" style="width: 2.5%;"><col span="1" style="width: 2.5%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"><col span="1" style="width: 19%;"></colgroup><tr><th>#</th><th></th><th>Expected Reward</th><th>Sender Policy</th><th>Receiver Policy</th><th>Perm. Regions</th><th>Symbols</th></tr>
 <tr><td rowspan="2">0</td><td>(A)</td><td><img alt="iteration-0000000-(002)" src="small/iteration-0000000-(002).jpg" width="100%"></td><td><img alt="iteration-0000000-(004)" src="small/iteration-0000000-(004).jpg" width="100%"></td><td><img alt="iteration-0000000-(005)" src="small/iteration-0000000-(005).jpg" width="100%"></td><td><img alt="iteration-0000000-(011)" src="small/iteration-0000000-(011).jpg" width="100%"></td><td><img alt="iteration-0000000-(012)" src="small/iteration-0000000-(012).jpg" width="100%"></td></tr>
 <tr><td>(B)</td><td><img alt="iteration-0000000-(007)" src="small/iteration-0000000-(007).jpg" width="100%"></td><td><img alt="iteration-0000000-(009)" src="small/iteration-0000000-(009).jpg" width="100%"></td><td><img alt="iteration-0000000-(010)" src="small/iteration-0000000-(010).jpg" width="100%"></td><td><img alt="iteration-0000000-(013)" src="small/iteration-0000000-(013).jpg" width="100%"></td><td><img alt="iteration-0000000-(014)" src="small/iteration-0000000-(014).jpg" width="100%"></td>
 <tr><td rowspan="2">1</td><td>(A)</td><td><img alt="iteration-0000001-(002)" src="small/iteration-0000001-(002).jpg" width="100%"></td><td><img alt="iteration-0000001-(004)" src="small/iteration-0000001-(004).jpg" width="100%"></td><td><img alt="iteration-0000001-(005)" src="small/iteration-0000001-(005).jpg" width="100%"></td><td><img alt="iteration-0000001-(011)" src="small/iteration-0000001-(011).jpg" width="100%"></td><td><img alt="iteration-0000001-(012)" src="small/iteration-0000001-(012).jpg" width="100%"></td></tr>
@@ -107,4 +106,5 @@
 <tr><td>(B)</td><td><img alt="iteration-0000048-(007)" src="small/iteration-0000048-(007).jpg" width="100%"></td><td><img alt="iteration-0000048-(009)" src="small/iteration-0000048-(009).jpg" width="100%"></td><td><img alt="iteration-0000048-(010)" src="small/iteration-0000048-(010).jpg" width="100%"></td><td><img alt="iteration-0000048-(013)" src="small/iteration-0000048-(013).jpg" width="100%"></td><td><img alt="iteration-0000048-(014)" src="small/iteration-0000048-(014).jpg" width="100%"></td>
 <tr><td rowspan="2">49</td><td>(A)</td><td><img alt="iteration-0000049-(002)" src="small/iteration-0000049-(002).jpg" width="100%"></td><td><img alt="iteration-0000049-(004)" src="small/iteration-0000049-(004).jpg" width="100%"></td><td><img alt="iteration-0000049-(005)" src="small/iteration-0000049-(005).jpg" width="100%"></td><td><img alt="iteration-0000049-(011)" src="small/iteration-0000049-(011).jpg" width="100%"></td><td><img alt="iteration-0000049-(012)" src="small/iteration-0000049-(012).jpg" width="100%"></td></tr>
 <tr><td>(B)</td><td><img alt="iteration-0000049-(007)" src="small/iteration-0000049-(007).jpg" width="100%"></td><td><img alt="iteration-0000049-(009)" src="small/iteration-0000049-(009).jpg" width="100%"></td><td><img alt="iteration-0000049-(010)" src="small/iteration-0000049-(010).jpg" width="100%"></td><td><img alt="iteration-0000049-(013)" src="small/iteration-0000049-(013).jpg" width="100%"></td><td><img alt="iteration-0000049-(014)" src="small/iteration-0000049-(014).jpg" width="100%"></td>
-</tbody></table>
+</table>
+
